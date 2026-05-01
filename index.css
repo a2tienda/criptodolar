@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Inter', sans-serif;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+input, textarea {
+  -webkit-user-select: text;
+  user-select: text;
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Dolar Cp",
+  "description": "Consulta las Tasas y Calcula el precio de cobetura",
+  "requestFramePermissions": []
+}
